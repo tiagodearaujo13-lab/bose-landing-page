@@ -27,7 +27,7 @@ O layout foi construído seguindo o conceito **Mobile First**, garantindo uma ex
 
 O design é inspirado na identidade visual da Bose, com foco em tipografia limpa e imagens de alta qualidade.
 
-*(Espaço reservado para você colocar um print/gif do seu site depois que subir. Exemplo:)*
+
 ![Screenshot do Projeto](img/header-bg-moblile.png)
 
 ## 🛠️ Tecnologias Utilizadas
