@@ -27,6 +27,7 @@ O layout foi construído seguindo o conceito **Mobile First**, garantindo uma ex
 
 O design é inspirado na identidade visual da Bose, com foco em tipografia limpa e imagens de alta qualidade.
 
+👉 **[Ver Layout no Figma](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6703-88&p=f&t=C2gYI3u7OIVXrGYE-0)**
 
 ![Screenshot do Projeto](img/header-bg-moblile.png)
 
@@ -39,18 +40,20 @@ O design é inspirado na identidade visual da Bose, com foco em tipografia limpa
 
 ## 📂 Estrutura de Arquivos
 
-O projeto segue uma organização limpa de arquivos:
+O projeto segue uma organização limpa de arquivos, utilizando a metodologia BEM para separar os estilos:
 
 ```text
 /
 ├── img/                # Imagens do projeto (Logo, Backgrounds)
 ├── icon/               # Ícones (Menu, Phone, Close)
+├── styles/             # Diretório de estilos
+│   ├── blocks/         # Componentes BEM (header, nav, menu, etc.)
+│   └── style.css       # Arquivo principal que importa os blocos
 ├── index.html          # Estrutura principal
-├── style.css           # Folhas de estilo
 └── README.md           # Documentação
 
 # Clone este repositório
-$ git clone https://github.com/tiagodearaujo13-lab/bose-landing-page.git
+$ git clone [https://github.com/tiagodearaujo13-lab/bose-landing-page.git](https://github.com/tiagodearaujo13-lab/bose-landing-page.git)
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd bose-landing-page
