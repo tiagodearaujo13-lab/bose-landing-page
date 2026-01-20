@@ -53,7 +53,7 @@ O projeto segue uma organização limpa de arquivos, utilizando a metodologia BE
 └── README.md           # Documentação
 
 # Clone este repositório
-$ git clone [https://github.com/tiagodearaujo13-lab/bose-landing-page.git](https://github.com/tiagodearaujo13-lab/bose-landing-page.git)
+$ git clone [https://github.com/tiagodearaujo13-lab/bose-landing-page.git]
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd bose-landing-page
