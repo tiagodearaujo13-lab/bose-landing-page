@@ -1,0 +1,17 @@
+.icon {
+  display: block;
+  height: 24px;
+  width: 24px;
+}
+
+.icon--phone {
+  background-image: url(../../icon/icon-phone.png);
+}
+
+.icon--menu {
+  background-image: url(../../icon/icon-buger.png);
+}
+
+.icon--close {
+  background-image: url(../../icon/close.png);
+}
