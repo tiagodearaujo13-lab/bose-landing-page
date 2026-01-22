@@ -1,0 +1,27 @@
+.icon {
+  display: block;
+  height: 24px;
+  width: 24px;
+  background-image: url(../img/icon/icon-buger.png);
+  background-size: cover;
+
+  @include onTablet {
+    height: 32px;
+    width: 32px;
+  }
+
+
+
+  &--phone {
+    background-image: url(../img/icon/icon-phone.png);
+  }
+
+  &--menu {
+    background-image: url(../img/icon/icon-buger.png);
+  }
+
+  &--close {
+    background-image: url(../img/icon/close.png);
+  }
+}
+
